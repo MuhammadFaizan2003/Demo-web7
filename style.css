@@ -656,6 +656,7 @@ form textarea {
         margin-bottom: 15px;
     }
     .slide {
+        margin-top: 66px;
         margin-bottom: 15px;
     }
     .home-text p{
@@ -669,8 +670,7 @@ form textarea {
         font-size: 12px;
     }
     .home{
-        padding-top: 33px;
-        padding-bottom: 33px;
+        height: 95vh;
     }
     .about-img img{
         filter: inherit;
