@@ -626,3 +626,17 @@ form textarea {
         top: 100%;
     }
 }
+
+
+
+
+
+
+ /* Media Q 5 */
+
+
+@media (max-width: 340px) {
+    .row{
+        width: 80%;
+    }
+}
