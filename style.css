@@ -637,6 +637,40 @@ form textarea {
 
 @media (max-width: 340px) {
     .row{
-        width: 80%;
+        width: 77%;
+    }
+    .home-text h3{
+        font-size: 33px;
+        margin-bottom: 20px;
+    }
+    .home-text h1{
+        font-size: 33px;
+        margin-bottom: 20px;
+    }
+    .one{
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+    .tow{
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+    .home-text p{
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .btn{
+        font-size: 12px;
+    }
+    .btn2{
+        font-size: 12px;
+    }
+    .home{
+        height: 92vh;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .about-img img{
+        filter: inherit;
     }
 }
