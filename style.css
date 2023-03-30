@@ -637,7 +637,7 @@ form textarea {
 
 @media (max-width: 340px) {
     .row{
-        width: 75%;
+        width: 77%;
     }
     .home-text h3{
         font-size: 33px;
@@ -664,7 +664,8 @@ form textarea {
         margin-bottom: 20px;
     }
     .btn{
-        font-size: 12px;
+        font-size: 9px;
+        padding: 6px 10px;
     }
     .btn2{
         font-size: 12px;
